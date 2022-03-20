@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente tenho me esforçado em aprender java, microserviços e linguagens web bastante utilizadas no mercado de trabalho
 - 🌱 Estou estudando Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais
-- 📫 Caso queira entrar em contato comigo: contato.viniciusfernandes@gmail.com
+- 📫 Caso queira entrar em contato comigo: contato.viniciusfernandes9@gmail.com
 
 <div>
   <a href="https://github.com/ViniFernandes9">
