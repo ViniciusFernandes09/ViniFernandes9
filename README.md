@@ -23,7 +23,6 @@
 - CCNA4 R&S: Connecting Networks
 - English for Life and for Work
 ### 👨‍💻 Cursos
-- DevOps Pro (cursando)
 - Network Defense (Cisco)
 - Redes de Computadores (Cisco)
 - Inglês for Life and for Work (Prepara)
