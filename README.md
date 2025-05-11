@@ -1,7 +1,8 @@
 ## Olá! Me chamo Vinicius, seja bem vindo!!
 
-  No momento estou estudando programação e estou iniciando a minha jornada na area de desenvolvimento Java.
 
+  Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica Uniamérica. Estou sempre dedicado a ampliar meus conhecimentos e habilidades no universo da programação. Atualmente trabalho como Analista de Suporte Jr. pelo Grupo Prime, porém, continuo meus estudos com foco em FrontEnd, onde é minha paixão!
+  Estou em busca de oportunidades que me permitam aplicar e aprimorar minhas habilidades agregando a equipe com soluções eficazes, enquanto continuo minha jornada de aprendizado e crescimento profissional!
 
 
 - 🔭 Atualmente tenho me esforçado em aprender java, microserviços e linguagens web bastante utilizadas no mercado de trabalho
