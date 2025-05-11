@@ -1,4 +1,4 @@
-## Olá! Me chamo Vinicius, seja bem vindo!!
+## Olá! Me chamo Vinícius, seja bem vindo!!
 
 
   Sou estudante de Análise e Desenvolvimento de Sistemas pela Descomplica Uniamérica, comprometido em expandir continuamente meus conhecimentos e habilidades no universo da programação. Atualmente, atuo como Analista de Suporte Jr. no Grupo Prime, mas tenho direcionado meus estudos ao desenvolvimento Front-End, minha verdadeira paixão. Busco oportunidades que me permitam aplicar e aprimorar minhas habilidades, contribuindo com soluções eficazes para a equipe, enquanto sigo evoluindo em minha jornada de aprendizado e crescimento profissional!
