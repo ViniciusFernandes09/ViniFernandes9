@@ -59,4 +59,5 @@
   <a href="mailto:contato.viniciusfernnades9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vinifernandez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/MSzASc9Q59" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.dio.me/users/vinijesus2010"><img src="https://img.shields.io/badge/-DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" target="_blank"></a>
 </div>
